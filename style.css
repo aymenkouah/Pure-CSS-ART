@@ -1,0 +1,442 @@
+.dino {
+    background-color: red;
+    height: 1em;
+    width: 1em;
+    box-shadow: 
+    103em 1em #424242,
+    102em 1em #424242,
+    101em 1em #424242,
+    100em 1em #424242,
+    99em 1em #424242,
+    98em 1em #424242,
+    97em 1em #424242,
+    96em 1em #424242,
+    95em 1em #424242,
+    96em 2.5em white,
+    104em 2em #424242,
+    103em 2em #424242,
+    102em 2em #424242,
+    101em 2em #424242,
+    100em 2em #424242,
+    99em 2em #424242,
+    98em 2em #424242,
+    97em 2em #424242,
+    96em 2em #424242,
+    96em 2.5em white,
+    95em 2em #424242,
+    94em 2em #424242,
+
+    104em 3em #424242,
+    103em 3em #424242,
+    102em 3em #424242,
+    101em 3em #424242,
+    100em 3em #424242,
+    99em 3em #424242,
+    98em 3em #424242,
+    97em 3em #424242,
+    96em 3em #424242,
+    95em 3em #424242,
+    94em 3em #424242,
+
+    104em 4em #424242,
+    103em 4em #424242,
+    102em 4em #424242,
+    101em 4em #424242,
+    100em 4em #424242,
+    99em 4em #424242,
+    98em 4em #424242,
+    97em 4em #424242,
+    96em 4em #424242,
+    95em 4em #424242,
+    94em 4em #424242,
+
+    104em 5em #424242,
+    103em 5em #424242,
+    102em 5em #424242,
+    101em 5em #424242,
+    100em 5em #424242,
+    99em 5em #424242,
+    98em 5em #424242,
+    97em 5em #424242,
+    96em 5em #424242,
+    95em 5em #424242,
+    94em 5em #424242,
+    
+    104em 6em #424242,
+    103em 6em #424242,
+    102em 6em #424242,
+    101em 6em #424242,
+    100em 6em #424242,
+    99em 6em #424242,
+    98em 6em #424242,
+    97em 6em #424242,
+    96em 6em #424242,
+    95em 6em #424242,
+    94em 6em #424242,
+
+
+    98em 7em #424242,
+    97em 7em #424242,
+    96em 7em #424242,
+    95em 7em #424242,
+    94em 7em #424242,
+
+
+    102em 8em #424242,
+    101em 8em #424242,
+    100em 8em #424242,
+    99em 8em #424242,
+    98em 8em #424242,
+    97em 8em #424242,
+    96em 8em #424242,
+    95em 8em #424242,
+    94em 8em #424242,
+
+    97em 9em #424242,
+    96em 9em #424242,
+    95em 9em #424242,
+    94em 9em #424242,
+
+    97em 10em #424242,
+    96em 10em #424242,
+    95em 10em #424242,
+    94em 10em #424242,
+    93em 10em #424242,
+    83em  10em #424242,
+
+    97em 11em #424242,
+    96em 11em #424242,
+    95em 11em #424242,
+    94em 11em #424242,
+    93em 11em #424242,
+    92em 11em #424242,
+    91em 11em #424242,
+    83em 11em #424242,
+
+    99em 11.5em #424242,
+    98em 11.5em #424242,
+    97em 12em #424242,
+    96em 12em #424242,
+    95em 12em #424242,
+    94em 12em #424242,
+    93em 12em #424242,
+    92em 12em #424242,
+    91em 12em #424242,
+    90em 12em #424242,
+    89em 12em #424242,
+    84em 12em #424242,
+    83em 12em #424242,
+
+    99em 12.5em #424242,
+    99em 13em #424242,
+    97em 13em #424242,
+    96em 13em #424242,
+    95em 13em #424242,
+    94em 13em #424242,
+    93em 13em #424242,
+    92em 13em #424242,
+    91em 13em #424242,
+    90em 13em #424242,
+    89em 13em #424242,
+    88em 13em #424242,
+    85em 13em #424242,
+    84em 13em #424242,
+    83em 13em #424242,
+
+    97em  14em #424242,
+    96em  14em #424242,
+    95em  14em #424242,
+    94em  14em #424242,
+    93em  14em #424242,
+    92em  14em #424242,
+    91em  14em #424242,
+    90em  14em #424242,
+    89em  14em #424242,
+    88em  14em #424242,
+    87em  14em #424242,
+    86em  14em #424242,
+    85em  14em #424242,
+    84em  14em #424242,
+    83em  14em #424242,
+
+    97em  15em #424242,
+    96em  15em #424242,
+    95em  15em #424242,
+    94em  15em #424242,
+    93em  15em #424242,
+    92em  15em #424242,
+    91em  15em #424242,
+    90em  15em #424242,
+    89em  15em #424242,
+    88em  15em #424242,
+    87em  15em #424242,
+    86em  15em #424242,
+    85em  15em #424242,
+    84em  15em #424242,
+    83em  15em #424242,
+
+    97em  16em #424242,
+    96em  16em #424242,
+    95em  16em #424242,
+    94em  16em #424242,
+    93em  16em #424242,
+    92em  16em #424242,
+    91em  16em #424242,
+    90em  16em #424242,
+    89em  16em #424242,
+    88em  16em #424242,
+    87em  16em #424242,
+    86em  16em #424242,
+    85em  16em #424242,
+    84em  16em #424242,
+
+    96em  17em #424242,
+    95em  17em #424242,
+    94em  17em #424242,
+    93em  17em #424242,
+    92em  17em #424242,
+    91em  17em #424242,
+    90em  17em #424242,
+    89em  17em #424242,
+    88em  17em #424242,
+    87em  17em #424242,
+    86em  17em #424242,
+    85em  17em #424242,
+
+    96em  18em #424242,
+    95em  18em #424242,
+    94em  18em #424242,
+    93em  18em #424242,
+    92em  18em #424242,
+    91em  18em #424242,
+    90em  18em #424242,
+    89em  18em #424242,
+    88em  18em #424242,
+    87em  18em #424242,
+    86em  18em #424242,
+
+    93em  18.5em #424242,
+    92em  19em #424242,
+    91em  19em #424242,
+    89em  19em #424242,
+    88em  19em #424242,
+    87em  19em #424242,
+
+    92em  20em #424242,
+    88.5em  20em #424242,
+    88em  20em #424242,
+
+    92em  21em #424242,
+    92em  22em #424242,
+    93em  22em #424242,
+
+    88.5em  21em #424242,
+    88.5em  22em #424242,
+    89.5em  22em #424242,
+
+    83em 20.5em white,
+    81em 20.5em white,
+    85em 20.5em white,
+    84em 20.5em white,
+    82em 20.5em white,
+
+    83em 20em #424242,
+    85em 20em #424242,
+    84em 20em #424242,
+    82em 20em #424242,
+    81em 20em #424242,
+
+
+    96em 20.5em white,
+    100em 20.5em white,
+    101em 20.5em white,
+    102em 20.5em white,
+    103em 20.5em white,
+    104em 20.5em white,
+    97em 20.5em white,
+    98em 20.5em white,
+    99em 20.5em white,
+
+    
+    100em 20em #424242,
+    101em 20em #424242,
+    102em 20em #424242,
+    103em 20em #424242,
+    104em 20em #424242,
+    96em 20em #424242,
+    97em 20em #424242,
+    98em 20em #424242,
+    99em 20em #424242
+    
+    ;
+    position: absolute;
+    right: 122em;
+    top: 8em;
+    /* z-index: 2; */
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #191C48;
+    background-image: radial-gradient(
+        #4285F4 3px,
+        transparent 3px
+    );
+
+    background-size: 60px 60px;
+}
+
+.name {
+    color: white;
+    font-family: 'Product Sans', san-serif;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 13px;
+    left: 75px;
+}
+
+#light {
+    font-weight: 100;
+}
+#bold{
+    font-weight: 600;
+    
+}
+
+.logo {
+    position: absolute;
+    top: 0;
+    /* background-color: rebeccapurple; */
+    margin-bottom: 50px;
+    
+
+}
+
+.part  {
+    position: absolute;
+    top: 0;
+    margin-top: 1rem;
+    background: white;
+    height: 10px;
+    width: 30px;
+    border-radius: 10px;
+    
+    border: 1px #191C48 solid;
+}
+
+#e1 {
+    transform: rotate(150deg);
+}
+
+#e2 {
+    transform: rotate(-150deg);
+    top: 10px;
+}
+
+#e3 {
+    left: 35px;
+    transform: rotate(-30deg);
+    top: 10px;}
+
+#e4 {
+    left: 35px;
+    transform: rotate(30deg);
+}
+.logo-container {
+    margin-top: 50px;
+    margin-left: 50px;
+    position: relative;
+    /* height: 50px; */
+    right: -80vw;
+    width: 15vw;
+    /* background-color: teal; */
+    display: flex;
+    flex-direction: column;
+    /* right: 0px; */
+    /* align-items: flex-end;    */
+
+}
+
+.devfest {
+    position: absolute ;
+    font-size: 6rem;
+    top: 1rem;
+    right: 4vw;
+    color: #F9AB00;
+}
+
+.container {
+    max-width: 50vw;
+	height: 100%;
+	margin: auto;
+	/* width: 100%; */
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	/* overflow: hidden; */
+}
+
+.front {
+    width: 99%;
+    height: 55vh;
+    background-color: #F8F9FA;
+    margin-top: 15vh;
+    border: 5px solid #F9AB00;
+    border-top: 40px solid #F9AB00;
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.a {
+    height:1.5rem;
+    width: 1.5rem;
+    position: absolute;
+    top: -2rem;
+    left: 1rem;
+    background-color: green;
+    border-radius: 50%;
+
+}
+
+.back {
+    width: 99%;
+    height: 55vh;
+    /* background-color: #F8F9FA; */
+    margin-top: -56vh;
+    border: 5px solid #F9AB00;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    z-index: -1;
+    /* overflow: hidden; */
+}
+
+#b1 {
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    background-color: #F9AB00;
+    top: -10px;
+    right: -10px;
+}
+
+#b2 {
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    background-color: #F9AB00;
+    bottom: -10px;
+    right: -10px;
+}
+
+#b3 {
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    background-color: #F9AB00;
+    bottom: -10px;
+    left: -10px;
+}
